@@ -1,0 +1,20 @@
+1begin
+2.declare maths,science,english,social,telugu,total,percentage
+3.read maths,science,english,social,telugu
+4.total=telugu+english+maths+science+social
+5.percentage=(total/500)*100
+6.diplay percentage
+7.if(percentage>=90)
+8.diplay gradeA
+9.else if(percentage>=80)
+10.display gradeB
+11.else if(percentage>=70)
+12.display gradeC
+13.else if(percentage>=60)
+14.display gradeD
+15.else if(percentage>=40)
+16.diplay gradeE
+17.else
+18.diplay fail
+19.end if
+20.end

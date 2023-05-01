@@ -1,0 +1,9 @@
+1.begin
+2.declare num
+3.read num
+4.if (num>=0)
+5.display positive
+6.else
+7.diplay negative
+8.end if
+8.end

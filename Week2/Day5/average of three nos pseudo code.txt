@@ -1,0 +1,7 @@
+1.begin
+2.declare sum,num1,num2,num3,average
+3.read num1,num2,num3
+4.sum=num1+num2+num3
+5.average=sum/3
+6.diplay average
+7.end

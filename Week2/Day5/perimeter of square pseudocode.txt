@@ -1,0 +1,6 @@
+1.begin
+2.declare perimeter,side
+3.read side
+4.perimeter=4*side
+5.diplay perimeter
+6.end

@@ -1,0 +1,6 @@
+1.begin
+2.declare sum,num1,num2,num3
+3.read num1,num2,num3
+4.sum=num1+num2+num3
+5.display sum
+6.end

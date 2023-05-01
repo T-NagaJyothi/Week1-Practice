@@ -1,0 +1,9 @@
+1.begin
+2.declare number
+3.read number
+4.if(numbern%2!=0)
+5.display odd
+6.else
+7.display not odd
+8.end if
+9.end

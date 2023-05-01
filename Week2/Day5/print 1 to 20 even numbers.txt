@@ -1,0 +1,12 @@
+1.begin
+2.declare num
+3.intialize num
+4.while(num<==20)
+5.if(num%2==0)
+6.diplay num
+7.num=num+1
+8.else
+9.num=num+1
+10.end if
+11.end while
+12.end

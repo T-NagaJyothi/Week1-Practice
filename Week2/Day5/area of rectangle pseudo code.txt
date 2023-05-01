@@ -1,0 +1,7 @@
+1.begin 
+2.declare length,breadth,area
+3.read length,breadth
+4.area=length*breadth
+5.display area
+6.end
+

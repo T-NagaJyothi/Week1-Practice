@@ -1,0 +1,8 @@
+1.begin
+2.declare num
+3.intialize num=1
+4.while (num<=10)
+5.diaplay num
+6.num=num+1
+7.end while
+8.end

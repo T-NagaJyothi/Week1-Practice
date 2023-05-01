@@ -1,0 +1,9 @@
+1.begin
+2.declare number
+3.read number
+4.if(number%2==0)
+5.display even
+6.else 
+7.display not even
+8.end if
+9.end

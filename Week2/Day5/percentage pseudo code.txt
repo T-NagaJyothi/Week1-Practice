@@ -1,0 +1,7 @@
+1.begin
+2.declare maths,science,english,social,telugu,total,percentage
+3.read maths,science,english,social,telugu
+4.total=telugu+english+maths+science+social
+5.percentage=(total/500)*100
+6.diplay percentage
+7.end
